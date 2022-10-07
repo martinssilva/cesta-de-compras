@@ -2,6 +2,7 @@
   "expo": {
     "name": "cesta-de-compras",
     "slug": "cesta-de-compras",
+    "owner": "brunoms",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
